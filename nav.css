@@ -2,11 +2,11 @@ html,body{min-height:100%}
 html{padding:0;background:#fdfdfd}
 body{padding:0;text-align:center}
 @media all and (min-width:1px){
-	body{min-height:100vh;background:#fdfdfd url(_escolares_bg.png) no-repeat 0 0 fixed;background-size:cover}
+	body{min-height:100vh;background:#fdfdfd url(escolares_bg.png) no-repeat 0 0 fixed;background-size:cover}
 }
 #lbOverlay{background:#f3f3f3}
 #content{width:100%;max-width:1230px;min-width:300px;margin:0 auto;text-align:left;position:relative;padding-bottom:21px}
-#main-wrapper{padding:0 25px 1px 305px;background:#fff url(_escolares_left_column.gif) repeat-y 0 0;box-shadow:rgba(0,0,0,0.4) 0 3px 8px}
+#main-wrapper{padding:0 25px 1px 305px;background:#fff url(escolares_left_column.gif) repeat-y 0 0;box-shadow:rgba(0,0,0,0.4) 0 3px 8px}
 .no-nav #main-wrapper{padding-left:25px;background:#fff}
 #main{width:100%}
 #header,#emptyHeader{border:none;padding:40px 210px 20px 20px;background:none;font-size:2em}
